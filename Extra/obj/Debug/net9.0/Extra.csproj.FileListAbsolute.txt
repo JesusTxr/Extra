@@ -1,0 +1,14 @@
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\bin\Debug\net9.0\Extra.exe
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\bin\Debug\net9.0\Extra.deps.json
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\bin\Debug\net9.0\Extra.runtimeconfig.json
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\bin\Debug\net9.0\Extra.dll
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\bin\Debug\net9.0\Extra.pdb
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.csproj.CoreCompileInputs.cache
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.dll
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\refint\Extra.dll
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.pdb
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\Extra.genruntimeconfig.cache
+C:\Users\chuch\OneDrive\Escritorio\Examen parcial3\Extra\obj\Debug\net9.0\ref\Extra.dll

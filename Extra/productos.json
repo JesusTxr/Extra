@@ -1,0 +1,17 @@
+[
+  {
+    "Nombre": "Coca",
+    "Precio": 25,
+    "Cantidad": 43
+  },
+  {
+    "Nombre": "Pepsi",
+    "Precio": 30,
+    "Cantidad": 27
+  },
+  {
+    "Nombre": "McBoock",
+    "Precio": 500000,
+    "Cantidad": 4
+  }
+]
